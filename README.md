@@ -1,6 +1,6 @@
-  # Manual Despensa
+  # Manual - Sensor de porta Despensa
 
-Manual do sensor de porta e iluminação automática da despensa.
+Manual do sensor de porta, iluminação automática da despensa.
 
 ## Esquema
 
@@ -8,12 +8,11 @@ Manual do sensor de porta e iluminação automática da despensa.
 
 ### UART
 
-![uart](https://raw.githubusercontent.com/weg820casa/manual-despensa/master/assets/UART.svg)
-
+<img src="https://raw.githubusercontent.com/weg820casa/manual-despensa/master/assets/UART.svg" height="128">
 VCC é 5 volts.
 
 ### Power Spuly
 
 A entrada de energia deve ser de no máximo 2A.
 
-![powersuply](https://raw.githubusercontent.com/weg820casa/manual-despensa/master/assets/powersupply.svg)
+<img src="https://raw.githubusercontent.com/weg820casa/manual-despensa/master/assets/powersupply.svg" height="128">
